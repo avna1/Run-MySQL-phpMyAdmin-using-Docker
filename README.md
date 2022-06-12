@@ -1,1 +1,21 @@
 # Run-MySQL-phpMyAdmin-using-Docker
+
+![image](https://user-images.githubusercontent.com/97139623/170854403-7cee3791-562d-4111-b070-bcb2a0e25797.png)
+
+KULLIYYAH OF INFORMATION & COMMUNICATION TECHNOLOGY 
+
+CSCI 3300 OPERATING SYSTEMS
+ SEM 2, 2021/2022 
+ 
+ SECTION 01
+ 
+Group 8
+
+
+#### Title:
+ Program that implements the banker’s algorithm.
+#### Name- Matric No:
+1. BINTALEB AFNAN BASEM - 1826014
+2. BINSHAHBAL DANYAH AHMAD SALEM - 2020600
+3. HUSAM ALI AYESH QASER - 1912611
+4. BAKOBAN MOHAMMAD SAID SALEH - 1813937
