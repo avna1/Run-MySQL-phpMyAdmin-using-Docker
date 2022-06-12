@@ -13,7 +13,7 @@ Group 8
 
 
 #### Title:
- Program that implements the banker’s algorithm.
+  Tutorial to run MySQL, phpMyAdmin using-Docker
 #### Name- Matric No:
 1. BINTALEB AFNAN BASEM - 1826014
 2. BINSHAHBAL DANYAH AHMAD SALEM - 2020600
@@ -22,18 +22,16 @@ Group 8
 
 #### LECTURER:
 
-Dr.MOHD KHAIRUL AZMI BIN HASSAN 
+Dr.RIZAL BIN MOHD. NOR
 
 Due :
-31 May 2022
+14 June 2022
 
 ---
 
 ## Table of contents
-- [What does this package do :thinking:](https://github.com/Eric-Mendes/unexpected-isaves#what-does-this-package-do-thinking);
-- [How to use it :computer:](https://github.com/Eric-Mendes/unexpected-isaves#how-to-use-it-computer);
-- [Why unexpected-isaves?](https://github.com/Eric-Mendes/unexpected-isaves#why-unexpected-isaves);
-- [Contributing :pencil:](https://github.com/Eric-Mendes/unexpected-isaves#contributing-pencil).
+- INTRODUCTION
+- SYSTEM REQUIRMENT  
 
 <hr/>
 
@@ -41,3 +39,20 @@ Due :
 
 For our Web application development project, we chose to create a Food ordering website. The website is called Foodly.
 Installing a relational database set with an electronic administration device is an exceptionally normal prerequisite for an extensive variety of software projects. Not too many years ago, programmers expected to download and install these parts manually into our machines to have the option to work. In any case, because of container-based technologies like docker, we can make our environment up and running in 3 simple steps.
+
+#### Wht is Docker?
+Docker is a software platform intended to make it more straightforward to make, deploy, and run applications using containers. It permits developers to bundle up an application with all the parts it needs in a container, and afterward transport it out as one package. Also, provide an image-based deployment model. This makes it easy to share an application, or set of services, with all of their dependencies across multiple environments.
+
+This tutorial aims to get up and running a fully functional platform with MySQL Community Edition + phpMyAdmin working on your local machine with the help of docker. Let's briefly describe these elements.
+
+MySQL Community Edition is a freely downloadable version of the world’s most popular open-source database that is supported by an active community of open source developers and enthusiasts.
+
+PhpMyAdmin is a free software tool written in PHP that aims to provide an easy-to-use Web-based interface to manage a wide range of operations on MySQL and MariaDB databases. Daily work operations like managing databases, tables, columns, relations, indexes, users, and permissions can be performed via the user interface without missing the ability to execute any SQL statement.
+ 
+---
+### SYSTEM REQUIRMENT 
+Operating System: Windows 11 Home
+
+Docker Community: Windows 11 64-bit (https://docs.docker.com/desktop/windows/install/);
+
+
