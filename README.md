@@ -53,6 +53,11 @@ PhpMyAdmin is a free software tool written in PHP that aims to provide an easy-t
 ### SYSTEM REQUIRMENT 
 Operating System: Windows 11 Home
 
-Docker Community: Windows 11 64-bit (https://docs.docker.com/desktop/windows/install/);
+Docker Community: Docker desktop4.9.0 (https://docs.docker.com/desktop/windows/install/);
+
+### TUTORIAL STEP-BY-STEP
+- Step 1:  Running MySQL docker container
+    ![image](https://user-images.githubusercontent.com/97139623/173221245-f08011fd-b6df-4cf8-afef-73e7390af2b7.png)
+
 
 
