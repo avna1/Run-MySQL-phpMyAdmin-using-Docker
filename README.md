@@ -36,8 +36,6 @@ Due :
 <hr/>
 
 ### INTRODUCTION
-
-For our Web application development project, we chose to create a Food ordering website. The website is called Foodly.
 Installing a relational database set with an electronic administration device is an exceptionally normal prerequisite for an extensive variety of software projects. Not too many years ago, programmers expected to download and install these parts manually into our machines to have the option to work. In any case, because of container-based technologies like docker, we can make our environment up and running in 3 simple steps.
 
 #### Wht is Docker?
@@ -53,13 +51,17 @@ PhpMyAdmin is a free software tool written in PHP that aims to provide an easy-t
 ### SYSTEM REQUIRMENT 
 Operating System: Windows 11 Home
 
-Docker Community: Docker desktop4.9.0 
+Docker Community: Docker desktop 4.9.0 
 
 ### TUTORIAL STEP-BY-STEP
 1- Download Docker.(https://docs.docker.com/desktop/windows/install/);
 2- Double-click InstallDocker.msi to run the installer.
+![image](https://user-images.githubusercontent.com/97139623/173755705-d0858cb5-7562-4310-ba73-6fdea629ec62.png)
+
 3- Follow the Install Wizard: accept the license, authorize the installer, and proceed with the install.
 Click Finish to launch Docker.
+![image](https://user-images.githubusercontent.com/97139623/173755808-abcd9b64-a228-4a0f-953e-b5b70aa8b097.png)
+
 4- Docker starts automatically.
 5- Docker loads a “Welcome” window giving you tips and access to the Docker documentation.
 
