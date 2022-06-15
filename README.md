@@ -63,10 +63,15 @@ Click Finish to launch Docker.
 ![image](https://user-images.githubusercontent.com/97139623/173755808-abcd9b64-a228-4a0f-953e-b5b70aa8b097.png)
 
 4- Docker starts automatically.
+![image](https://user-images.githubusercontent.com/97139623/173756235-51fc950d-ad28-464b-931c-dec45a472615.png)
+
 5- Docker loads a “Welcome” window giving you tips and access to the Docker documentation.
 
-- Step 1:  Running MySQL docker container
-    
+
+-###  Running MySQL docker container
+     - Step 1 
+     Open a terminal and run the command below in order to check your docker installation
+![image](https://user-images.githubusercontent.com/97139623/173756880-172f3d9e-b88d-46fe-b24d-7e8c04f2046d.png)
 
 
 
