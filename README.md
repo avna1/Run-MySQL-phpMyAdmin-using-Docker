@@ -140,17 +140,17 @@ Click Finish to launch Docker.
          - Step 7
          Open Mysql workbench and click the + sign to add new connection you can name anything then click ok 
          
-         ![image](https://user-images.githubusercontent.com/97139623/174469160-2713e97a-ded9-4e3d-ade7-2090a01b11d3.png)
+ ![image](https://user-images.githubusercontent.com/97139623/174469160-2713e97a-ded9-4e3d-ade7-2090a01b11d3.png)
          
           - Step 8
          On Mysql workbench you will see connection created 
          
-         ![image](https://user-images.githubusercontent.com/97139623/174469240-a4bea71c-28cb-45f1-b592-fea0744a4d74.png)
+  ![image](https://user-images.githubusercontent.com/97139623/174469240-a4bea71c-28cb-45f1-b592-fea0744a4d74.png)
          
          - Step 8
          Finaly uyou can work on Mysql workbench 
          
-         ![image](https://user-images.githubusercontent.com/97139623/174469384-f3fdbcb5-a2cc-4967-8f05-9e6a29483f32.png)
+  ![image](https://user-images.githubusercontent.com/97139623/174469384-f3fdbcb5-a2cc-4967-8f05-9e6a29483f32.png)
          
 
 
