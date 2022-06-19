@@ -13,7 +13,7 @@ Group 8
 
 
 #### Title:
-  Tutorial to run MySQL, phpMyAdmin using-Docker
+  Tutorial to run MySQL using-Docker
 #### Name- Matric No:
 1. BINTALEB AFNAN BASEM - 1826014
 2. BINSHAHBAL DANYAH AHMAD SALEM - 2020600
@@ -42,7 +42,7 @@ Installing a relational database set with an electronic administration device is
 #### Wht is Docker?
 Docker is a software platform intended to make it more straightforward to make, deploy, and run applications using containers. It permits developers to bundle up an application with all the parts it needs in a container, and afterward transport it out as one package. Also, provide an image-based deployment model. This makes it easy to share an application, or set of services, with all of their dependencies across multiple environments.
 
-This tutorial aims to get up and running a fully functional platform with MySQL Community Edition + phpMyAdmin working on your local machine with the help of docker. Let's briefly describe these elements.
+This tutorial aims to get up and running a fully functional platform with MySQL working on your local machine with the help of docker. Let's briefly describe these elements.
 
 MySQL Community Edition is a freely downloadable version of the world’s most popular open-source database that is supported by an active community of open source developers and enthusiasts.
 
@@ -51,18 +51,17 @@ MySQL Community Edition is a freely downloadable version of the world’s most p
 
 ### EXAMPLES OF CODE AND COMMANDS
 List of Docker Commands
-
-docker run – Runs a command in a new container
-docker start – Starts one or more stopped containers
-docker stop – Stops one or more running containers
-docker build – Builds an image form a Docker file
-docker pull – Pulls an image or a repository from a registry
-docker push – Pushes an image or a repository to a registry
-docker export – Exports a container’s filesystem as a tar archive
-docker exec – Runs a command in a run-time container
-docker search – Searches the Docker Hub for images
-docker attach – Attaches to a running container
-docker commit – Creates a new image from a container’s changes
+- docker run – Runs a command in a new container
+- docker start – Starts one or more stopped containers
+- docker stop – Stops one or more running containers
+- docker build – Builds an image form a Docker file
+- docker pull – Pulls an image or a repository from a registry
+- docker push – Pushes an image or a repository to a registry
+- docker export – Exports a container’s filesystem as a tar archive
+- docker exec – Runs a command in a run-time container
+- docker search – Searches the Docker Hub for images
+- docker attach – Attaches to a running container
+- docker commit – Creates a new image from a container’s changes
 Complete list of Docker Commands: (https://docs.docker.com/engine/reference/commandline/docker/)
 ---
 
