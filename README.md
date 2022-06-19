@@ -1,4 +1,4 @@
-# Run-MySQL-phpMyAdmin-using-Docker
+# Run-MySQL using-Docker(Term paper)
 
 ![image](https://user-images.githubusercontent.com/97139623/170854403-7cee3791-562d-4111-b070-bcb2a0e25797.png)
 
@@ -45,8 +45,7 @@ This tutorial aims to get up and running a fully functional platform with MySQL 
 
 MySQL Community Edition is a freely downloadable version of the world’s most popular open-source database that is supported by an active community of open source developers and enthusiasts.
 
-PhpMyAdmin is a free software tool written in PHP that aims to provide an easy-to-use Web-based interface to manage a wide range of operations on MySQL and MariaDB databases. Daily work operations like managing databases, tables, columns, relations, indexes, users, and permissions can be performed via the user interface without missing the ability to execute any SQL statement.
- 
+
 ---
 ### SYSTEM REQUIRMENT 
 Operating System: Windows 11 Home
@@ -68,10 +67,35 @@ Click Finish to launch Docker.
 5- Docker loads a “Welcome” window giving you tips and access to the Docker documentation.
 
 
--###  Running MySQL docker container
+###  Running MySQL docker container
+
      - Step 1 
      Open a terminal and run the command below in order to check your docker installation
 ![image](https://user-images.githubusercontent.com/97139623/173756880-172f3d9e-b88d-46fe-b24d-7e8c04f2046d.png)
+
+     - Step 2
+     If you get a message like the one displayed above, it means your docker installation is ok. Then you can proceed to obtain a MySQL docker image by typing the following: docker pull mysql and wait until the installation is completed 
+     
+![image](https://user-images.githubusercontent.com/97139623/174467431-7ab71e59-921f-4c06-a9da-35fa7a38d0df.png)
+ - Step 3
+  so now you can run it into your local machine:
+  
+docker run --name ms -p 3306:3306 -e MYSQL_ROOTPASSWORD=password mysql
+![image](https://user-images.githubusercontent.com/97139623/174467603-1223ef14-36e0-4721-b68c-d64c03153058.png)
+
+- Let's explain the options for the command docker run.
+
+The option --name allows us to assign a specific name for our running container.
+The option -e is used to pass a value to the container environment variable MYSQL_ROOT_PASSWORD. This variable is requested by the image to run properly and it will be assigned to the root password of MySQL.
+- Step 4 
+Open the docker and you will see the container 
+![image](https://user-images.githubusercontent.com/97139623/174467571-cd74ea26-ab61-4be4-9a25-5b55334a047a.png)
+- Step 5 
+open your broswer and search for (https://dev.mysql.com/downloads/workbench/)
+Clik the download button 
+![image](https://user-images.githubusercontent.com/97139623/174467728-8268c3fc-9e51-4478-9db9-234e1ad1e6c9.png)
+choose no thanks just start my download 
+![image](https://user-images.githubusercontent.com/97139623/174467759-1ebfa14c-96d1-489e-af35-1f960bae981f.png)
 
 
 
