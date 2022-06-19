@@ -105,8 +105,8 @@ Click Finish to launch Docker.
    
    
      - Step 3
-   so now you can run it into your local machine:
-   docker run --name ms -p 3306:3306 -e MYSQL_ROOTPASSWORD=password mysql
+     so now you can run it into your local machine:
+     docker run --name ms -p 3306:3306 -e MYSQL_ROOTPASSWORD=password mysql
    
 ![image](https://user-images.githubusercontent.com/97139623/174467603-1223ef14-36e0-4721-b68c-d64c03153058.png)
 
@@ -129,6 +129,27 @@ Click Finish to launch Docker.
         choose no thanks just start my download 
 
 ![image](https://user-images.githubusercontent.com/97139623/174467759-1ebfa14c-96d1-489e-af35-1f960bae981f.png)
+
+        - Step 6
+         Setup Mysql workbench
+         
+![image](https://user-images.githubusercontent.com/97139623/174469075-db404308-6542-43ab-ba95-8991a0265e00.png)
+
+![image](https://user-images.githubusercontent.com/97139623/174469140-55752e18-d3aa-40bb-923d-19caa39bb5fa.png)
+         - Step 7
+         Open Mysql workbench and click the + sign to add new connection you can name anything then click ok 
+         
+         ![image](https://user-images.githubusercontent.com/97139623/174469160-2713e97a-ded9-4e3d-ade7-2090a01b11d3.png)
+         
+          - Step 8
+         On Mysql workbench you will see connection created 
+         ![image](https://user-images.githubusercontent.com/97139623/174469240-a4bea71c-28cb-45f1-b592-fea0744a4d74.png)
+         - Step 8
+         Finaly uyou can work on Mysql workbench 
+         ![image](https://user-images.githubusercontent.com/97139623/174469384-f3fdbcb5-a2cc-4967-8f05-9e6a29483f32.png)
+         
+
+
 
 
 
